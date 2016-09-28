@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Am I Crazy?"
+date:   2016-09-28 19:31:43 +0000
+---
+
+
+If you would have told me a year ago, that right now, I would be learning to code, I would probably have said that you are crazy. I never pictured myself ever thinking about learning code, or pursuing it as a career, but here I am. How did I get here?
+That is a bit of a long story, but I will sum it up for you. 
+
+When I graduated high school 12 years ago (now you now about how old I am, ahhh), I knew that I wanted to live in Nashville , and also that I wanted to study music. I went to Belmont University as a commercial guitar performance major. My days were spent studying music and playing my guitar for about 8 hours a day. After a year of playing guitar my hands literally almost fell off. I got tendonitis, and had to quit. I switched my major to Entertainment Industry with a minor in Music Business. Little did I know that when I graduated (2008), my job prospects would be nil. (I did mean that little piece of coding wordplay.)
+
+In 2008, I was a recent college graduate, with student loans the size of a mortgage staring me in the face. As much as I wanted to take menial jobs in the music business, I could not afford to work for next to nothing. I decided to work where I could make enough money to be a responsible adult and pay my bils. Whoever said that being an adult was fun, was lying. 
+For many years I worked in restaurants as a server, and as a receptionist in medical offices in order to make due. I have switched around from job to job, always looking for a career path, but have not really found any. 
+
+I know there is more for me in this world, than to have a job that anyone off the street can do. I want to set myself apart. I know that I can do more. I want to be challenged in my career. I want to have a career that is rewarding, and always has something new to offer. 
+
+When I started doing research on new career paths I could take, I found out about the Flatiron school. The more research I did about coding, the more I figured that it would be something that I would love to do. It seems like the feild is filled with active learners, who are supportive of each other, and who are always wanting to learn more. 
+
+After all of the research, I took the plunge and enrolled in Flatiron school. I feel like I am going at the pace of a turtle, but I am going to get there. I am still on the Intro to Ruby course, so I haven't even techniqually started the Full-Stack Web Development course yet, but I will get there! It is all about taking baby steps. 
+
+For the moment, my goal is to solidify the little bit of knowledge that I have of Ruby so far, and to build on top of that. I am super excited to see where coding takes me. 
+
+Thanks for taking the time to read. 
+
+
+- Angie
