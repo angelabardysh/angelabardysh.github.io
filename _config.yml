@@ -1,0 +1,21 @@
+# Site settings
+title: Angie Learns to Code
+header-img: img/home-bg.png
+email: angelabardysh@gmail.com
+copyright_name: angelabardysh
+description: > # this means to ignore newlines until "baseurl:"
+  This Will be an Adventure!
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  angelabardysh
+learn_profile: angelabardysh
+email_username: angelabardysh@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
