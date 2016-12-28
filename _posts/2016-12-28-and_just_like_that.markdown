@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "And just like that..."
-date:   2016-12-28 03:12:11 +0000
+date:   2016-12-27 22:12:12 -0500
 ---
 
 
-So my last blog, I was so excited becuase I was finally on a roll. I was doing my labs, and understanding everything pretty well. Well, I guess that life sometimes de-rails you when you least expect it. I am not saying I got de-railed in a bad way, it's actually pretty good, but I still feel like I am slowly losing steam, and I need to get back into the swing of things. 
+So my last blog, I was so excited because I was finally on a roll. I was doing my labs, and understanding everything pretty well. Well, I guess that life sometimes de-rails you when you least expect it. I am not saying I got de-railed in a bad way, it's actually pretty good, but I still feel like I am slowly losing steam, and I need to get back into the swing of things. 
 
-So the reason that I started looking into learning code in the first place is because I had an amazing job, but I got laid off last December. My job was doing research for the oil and gas industry. It was work from home, and it was great money. I got laid off becuase prices were down too far to pay me to do research. I started looking into code becuase I wanted a job that was challenging, and something that wouldn't be the same every day. That is what my research job is to me. It is a job that has plenty of challenges, and takes lots of hard work and dedication to get things done correctly. 
+So the reason that I started looking into learning code in the first place is because I had an amazing job, but I got laid off last December. My job was doing research for the oil and gas industry. It was work from home, and it was great money. I got laid off because prices were down too far to pay me to do research. I started looking into code because I wanted a job that was challenging, and something that wouldn't be the same every day. That is what my research job is to me. It is a job that has plenty of challenges, and takes lots of hard work and dedication to get things done correctly. 
 
 Well, long story short, I got offered my job back a few weeks ago, and of course I had to take it. I had been waiting tables for the 11 months I was laid off in order to pay the bills, and even though it was great money and a super flexible schedule, it was definitely not the money I could make working from home. It was a no brainer to start work back up again. My husband was also offered the position and he took it as well, so we are both working from home, and it's awesome. 
 
