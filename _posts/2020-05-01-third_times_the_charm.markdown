@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Third Time's the Charm"
-date:       2020-05-02 01:44:42 +0000
+date:       2020-05-01 21:44:43 -0400
 permalink:  third_times_the_charm
 ---
 
